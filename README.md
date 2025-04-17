@@ -1,0 +1,1 @@
+Modern GUI Development - Built an intuitive Qt/QML-based interface using QML's declarative language for fluid animations and state-driven UI components. Leveraged QML's powerful data binding and JavaScript integration for real-time parameter visualization.
