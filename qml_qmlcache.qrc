@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="BetterButton.qml">BetterButton.qml</file>
+        <file alias="LayoutSection.qml">LayoutSection.qml</file>
+        <file alias="BetterButton2.qml">BetterButton2.qml</file>
+        <file alias="LayoutSection2.qml">LayoutSection2.qml</file>
+    </qresource>
+</RCC>
